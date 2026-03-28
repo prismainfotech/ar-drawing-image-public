@@ -348,5 +348,278 @@
     "prompt": "rocket outline, cartoon style, clean lines, minimal detail, transparent background",
     "category": "Objects",
     "type": "image"
+  },
+  {
+    "id": "img_051",
+    "name": "Owl",
+    "prompt": "owl outline front view, big eyes, clean bold lines, minimal detail, transparent background",
+    "category": "Animals",
+    "type": "image"
+  },
+  {
+    "id": "img_052",
+    "name": "Lion Full Body",
+    "prompt": "lion full body outline standing, strong silhouette, minimal detail, clean lines, transparent background",
+    "category": "Animals",
+    "type": "image"
+  },
+  {
+    "id": "img_053",
+    "name": "Rabbit",
+    "prompt": "rabbit outline sitting, long ears, cute style, smooth lines, minimal detail, transparent background",
+    "category": "Animals",
+    "type": "image"
+  },
+  {
+    "id": "img_054",
+    "name": "Panda",
+    "prompt": "panda outline sitting, round shape, clean lines, minimal detail, transparent background",
+    "category": "Animals",
+    "type": "image"
+  },
+  {
+    "id": "img_055",
+    "name": "Snake",
+    "prompt": "snake outline coiled, smooth curves, minimal detail, clean lines, transparent background",
+    "category": "Animals",
+    "type": "image"
+  },
+  {
+    "id": "img_056",
+    "name": "Baby Face",
+    "prompt": "baby face outline, round cheeks, simple features, minimal detail, clean lines, transparent background",
+    "category": "Human",
+    "type": "image"
+  },
+  {
+    "id": "img_057",
+    "name": "Old Man Face",
+    "prompt": "old man face outline, wrinkles minimal lines, simple style, clean outline, transparent background",
+    "category": "Human",
+    "type": "image"
+  },
+  {
+    "id": "img_058",
+    "name": "Running Person",
+    "prompt": "running person outline, simple motion pose, clean lines, minimal detail, transparent background",
+    "category": "Human",
+    "type": "image"
+  },
+  {
+    "id": "img_059",
+    "name": "Sun",
+    "prompt": "sun outline with rays, simple circular shape, clean lines, minimal detail, transparent background",
+    "category": "Nature",
+    "type": "image"
+  },
+  {
+    "id": "img_060",
+    "name": "Cloud",
+    "prompt": "cloud outline fluffy shape, smooth curves, minimal detail, clean lines, transparent background",
+    "category": "Nature",
+    "type": "image"
+  },
+  {
+    "id": "img_061",
+    "name": "Rain",
+    "prompt": "rain drops outline falling, simple lines, minimal detail, transparent background",
+    "category": "Nature",
+    "type": "image"
+  },
+  {
+    "id": "img_062",
+    "name": "Rainbow",
+    "prompt": "rainbow outline arcs, simple curved lines, minimal detail, transparent background",
+    "category": "Nature",
+    "type": "image"
+  },
+  {
+    "id": "img_063",
+    "name": "Truck",
+    "prompt": "truck outline side view, simple geometry, clean lines, minimal detail, transparent background",
+    "category": "Objects",
+    "type": "image"
+  },
+  {
+    "id": "img_064",
+    "name": "Bus",
+    "prompt": "bus outline side view, rectangular shape, clean lines, minimal detail, transparent background",
+    "category": "Objects",
+    "type": "image"
+  },
+  {
+    "id": "img_065",
+    "name": "Airplane",
+    "prompt": "airplane outline top view, simple wings, clean lines, minimal detail, transparent background",
+    "category": "Objects",
+    "type": "image"
+  },
+  {
+    "id": "img_066",
+    "name": "Boat",
+    "prompt": "boat outline side view, simple shape, clean lines, minimal detail, transparent background",
+    "category": "Objects",
+    "type": "image"
+  },
+  {
+    "id": "img_067",
+    "name": "Donut",
+    "prompt": "donut outline round shape, simple icing detail, minimal lines, transparent background",
+    "category": "Food",
+    "type": "image"
+  },
+  {
+    "id": "img_068",
+    "name": "Apple",
+    "prompt": "apple outline simple shape, leaf detail, clean lines, minimal detail, transparent background",
+    "category": "Food",
+    "type": "image"
+  },
+  {
+    "id": "img_069",
+    "name": "Banana",
+    "prompt": "banana outline curved shape, simple lines, minimal detail, transparent background",
+    "category": "Food",
+    "type": "image"
+  },
+  {
+    "id": "img_070",
+    "name": "Arrow",
+    "prompt": "arrow outline simple direction symbol, clean lines, minimal detail, transparent background",
+    "category": "Symbols",
+    "type": "image"
+  },
+  {
+    "id": "img_071",
+    "name": "Checkmark",
+    "prompt": "checkmark outline simple tick symbol, clean bold lines, minimal detail, transparent background",
+    "category": "Symbols",
+    "type": "image"
+  },
+  {
+    "id": "img_072",
+    "name": "Durga",
+    "prompt": "goddess durga face outline, calm expression, minimal line art, transparent background",
+    "category": "Mythology",
+    "type": "image"
+  },
+  {
+    "id": "img_073",
+    "name": "Hanuman",
+    "prompt": "lord hanuman face outline, simple bold lines, minimal detail, transparent background",
+    "category": "Mythology",
+    "type": "image"
+  },
+  {
+    "id": "img_074",
+    "name": "Anime Eyes",
+    "prompt": "anime eyes outline, large expressive eyes, clean lines, minimal detail, transparent background",
+    "category": "Anime",
+    "type": "image"
+  },
+  {
+    "id": "img_075",
+    "name": "Anime Hair Style",
+    "prompt": "anime hairstyle outline, spiky hair, clean bold lines, minimal detail, transparent background",
+    "category": "Anime",
+    "type": "image"
+  },
+  {
+    "id": "img_076",
+    "name": "Sword",
+    "prompt": "fantasy sword outline, clean straight lines, minimal detail, transparent background",
+    "category": "Fantasy",
+    "type": "image"
+  },
+  {
+    "id": "img_077",
+    "name": "Shield",
+    "prompt": "shield outline simple shape, clean geometry, minimal detail, transparent background",
+    "category": "Fantasy",
+    "type": "image"
+  },
+  {
+    "id": "img_078",
+    "name": "Laptop",
+    "prompt": "laptop outline open view, simple geometry, clean lines, minimal detail, transparent background",
+    "category": "Tech",
+    "type": "image"
+  },
+  {
+    "id": "img_079",
+    "name": "Keyboard",
+    "prompt": "keyboard outline top view, simple keys, clean lines, minimal detail, transparent background",
+    "category": "Tech",
+    "type": "image"
+  },
+  {
+    "id": "img_080",
+    "name": "Tennis Ball",
+    "prompt": "tennis ball outline curved lines, simple design, minimal detail, transparent background",
+    "category": "Sports",
+    "type": "image"
+  },
+  {
+    "id": "img_081",
+    "name": "Badminton Racket",
+    "prompt": "badminton racket outline, clean lines, minimal detail, transparent background",
+    "category": "Sports",
+    "type": "image"
+  },
+  {
+    "id": "img_082",
+    "name": "Clock",
+    "prompt": "clock outline round shape, simple hands, minimal detail, clean lines, transparent background",
+    "category": "Objects",
+    "type": "image"
+  },
+  {
+    "id": "img_083",
+    "name": "Key",
+    "prompt": "key outline simple shape, clean lines, minimal detail, transparent background",
+    "category": "Objects",
+    "type": "image"
+  },
+  {
+    "id": "img_084",
+    "name": "Fire",
+    "prompt": "flame outline, smooth curves, minimal detail, clean lines, transparent background",
+    "category": "Nature",
+    "type": "image"
+  },
+  {
+    "id": "img_085",
+    "name": "Snowflake",
+    "prompt": "snowflake outline symmetrical design, clean lines, minimal detail, transparent background",
+    "category": "Nature",
+    "type": "image"
+  },
+  {
+    "id": "img_086",
+    "name": "Diamond",
+    "prompt": "diamond outline geometric shape, clean lines, minimal detail, transparent background",
+    "category": "Symbols",
+    "type": "image"
+  },
+  {
+    "id": "img_087",
+    "name": "Infinity Symbol",
+    "prompt": "infinity symbol outline, smooth curves, minimal detail, transparent background",
+    "category": "Symbols",
+    "type": "image"
+  },
+  {
+    "id": "img_091",
+    "name": "Medal",
+    "prompt": "medal outline with ribbon, simple shape, clean lines, minimal detail, transparent background",
+    "category": "Sports",
+    "type": "image"
+  },
+  {
+    "id": "img_099",
+    "name": "Puzzle Piece",
+    "prompt": "puzzle piece outline simple shape, clean lines, minimal detail, transparent background",
+    "category": "Objects",
+    "type": "image"
   }
 ]
