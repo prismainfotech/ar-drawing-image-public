@@ -1,77 +1,77 @@
 [
   {
     "id": "img_001",
-    "name": "Lion Outline",
+    "name": "Lion",
     "prompt": "lion face outline, clean bold line art, symmetrical front view, minimal detail, transparent background, coloring book style, high contrast, no shading",
     "category": "Animals",
     "type": "image"
   },
   {
     "id": "img_002",
-    "name": "Tiger Outline",
+    "name": "Tiger",
     "prompt": "tiger face outline, sharp clean lines, bold stroke, minimal detail, symmetrical, transparent background",
     "category": "Animals",
     "type": "image"
   },
   {
     "id": "img_003",
-    "name": "Elephant Outline",
+    "name": "Elephant",
     "prompt": "elephant outline side view, simple contour, thick black lines, minimal detail, transparent background",
     "category": "Animals",
     "type": "image"
   },
   {
     "id": "img_004",
-    "name": "Dog Outline",
+    "name": "Dog",
     "prompt": "cute dog sitting outline, cartoon style, smooth lines, minimal detail, transparent background",
     "category": "Animals",
     "type": "image"
   },
   {
     "id": "img_005",
-    "name": "Cat Outline",
+    "name": "Cat",
     "prompt": "cat outline sitting pose, clean line art, minimal detail, bold lines, transparent background",
     "category": "Animals",
     "type": "image"
   },
   {
     "id": "img_006",
-    "name": "Horse Outline",
+    "name": "Horse",
     "prompt": "running horse outline, elegant flow lines, minimal detail, strong silhouette, transparent background",
     "category": "Animals",
     "type": "image"
   },
   {
     "id": "img_007",
-    "name": "Butterfly Outline",
+    "name": "Butterfly",
     "prompt": "butterfly wings outline, symmetrical design, clean lines, minimal detail, transparent background",
     "category": "Animals",
     "type": "image"
   },
   {
     "id": "img_008",
-    "name": "Fish Outline",
+    "name": "Fish",
     "prompt": "simple fish outline, curved smooth lines, minimal detail, transparent background",
     "category": "Animals",
     "type": "image"
   },
   {
     "id": "img_009",
-    "name": "Girl Face Outline",
+    "name": "Girl Face",
     "prompt": "female face outline, front portrait, clean thin lines, minimal detail, symmetrical, transparent background",
     "category": "Human",
     "type": "image"
   },
   {
     "id": "img_010",
-    "name": "Boy Face Outline",
+    "name": "Boy Face",
     "prompt": "boy cartoon face outline, big eyes, smiling, bold clean lines, minimal detail, transparent background",
     "category": "Human",
     "type": "image"
   },
   {
     "id": "img_011",
-    "name": "Hand Outline",
+    "name": "Hand",
     "prompt": "hand outline open palm, clean contour lines, minimal detail, bold stroke, transparent background",
     "category": "Human",
     "type": "image"
@@ -85,175 +85,175 @@
   },
   {
     "id": "img_013",
-    "name": "Rose Outline",
+    "name": "Rose",
     "prompt": "rose flower outline, elegant curved lines, minimal detail, transparent background",
     "category": "Nature",
     "type": "image"
   },
   {
     "id": "img_014",
-    "name": "Lotus Outline",
+    "name": "Lotus",
     "prompt": "lotus flower outline, symmetrical petals, clean lines, minimal detail, transparent background",
     "category": "Nature",
     "type": "image"
   },
   {
     "id": "img_015",
-    "name": "Tree Outline",
+    "name": "Tree",
     "prompt": "tree outline with branches, simple contour drawing, minimal detail, transparent background",
     "category": "Nature",
     "type": "image"
   },
   {
     "id": "img_016",
-    "name": "Leaf Outline",
+    "name": "Leaf",
     "prompt": "leaf outline simple shape, clean smooth lines, minimal detail, transparent background",
     "category": "Nature",
     "type": "image"
   },
   {
     "id": "img_017",
-    "name": "Mountain Outline",
+    "name": "Mountain",
     "prompt": "mountain outline landscape, simple geometric lines, minimal detail, transparent background",
     "category": "Nature",
     "type": "image"
   },
   {
     "id": "img_018",
-    "name": "Car Outline",
+    "name": "Car",
     "prompt": "sports car outline side view, sleek clean lines, minimal detail, transparent background",
     "category": "Objects",
     "type": "image"
   },
   {
     "id": "img_019",
-    "name": "Bike Outline",
+    "name": "Bike",
     "prompt": "motorbike outline side view, clean lines, minimal detail, transparent background",
     "category": "Objects",
     "type": "image"
   },
   {
     "id": "img_020",
-    "name": "House Outline",
+    "name": "House",
     "prompt": "simple house outline front view, bold clean lines, minimal detail, transparent background",
     "category": "Objects",
     "type": "image"
   },
   {
     "id": "img_021",
-    "name": "Chair Outline",
+    "name": "Chair",
     "prompt": "modern chair outline, clean geometry, minimal detail, transparent background",
     "category": "Objects",
     "type": "image"
   },
   {
     "id": "img_022",
-    "name": "Lamp Outline",
+    "name": "Lamp",
     "prompt": "table lamp outline, simple shape, clean lines, minimal detail, transparent background",
     "category": "Objects",
     "type": "image"
   },
   {
     "id": "img_023",
-    "name": "Burger Outline",
+    "name": "Burger",
     "prompt": "burger outline layered, bold lines, minimal detail, transparent background",
     "category": "Food",
     "type": "image"
   },
   {
     "id": "img_024",
-    "name": "Pizza Outline",
+    "name": "Pizza",
     "prompt": "pizza slice outline, simple shapes, clean bold lines, minimal detail, transparent background",
     "category": "Food",
     "type": "image"
   },
   {
     "id": "img_025",
-    "name": "Ice Cream Outline",
+    "name": "Ice Cream",
     "prompt": "ice cream cone outline, cute style, minimal detail, clean lines, transparent background",
     "category": "Food",
     "type": "image"
   },
   {
     "id": "img_026",
-    "name": "Cupcake Outline",
+    "name": "Cupcake",
     "prompt": "cupcake outline, simple curved lines, minimal detail, transparent background",
     "category": "Food",
     "type": "image"
   },
   {
     "id": "img_027",
-    "name": "Heart Outline",
+    "name": "Heart",
     "prompt": "heart shape outline, smooth clean lines, minimal detail, transparent background",
     "category": "Symbols",
     "type": "image"
   },
   {
     "id": "img_028",
-    "name": "Star Outline",
+    "name": "Star",
     "prompt": "star outline five point, clean bold lines, minimal detail, transparent background",
     "category": "Symbols",
     "type": "image"
   },
   {
     "id": "img_029",
-    "name": "Moon Outline",
+    "name": "Moon",
     "prompt": "crescent moon outline, smooth curves, minimal detail, transparent background",
     "category": "Symbols",
     "type": "image"
   },
   {
     "id": "img_030",
-    "name": "Shiva Outline",
+    "name": "Shiva",
     "prompt": "lord shiva face outline, calm expression, trishul symbol, minimal line art, transparent background",
     "category": "Mythology",
     "type": "image"
   },
   {
     "id": "img_031",
-    "name": "Ganesha Outline",
+    "name": "Ganesha",
     "prompt": "lord ganesha outline, simple curved lines, symmetrical, minimal detail, transparent background",
     "category": "Mythology",
     "type": "image"
   },
   {
     "id": "img_032",
-    "name": "Krishna Outline",
+    "name": "Krishna",
     "prompt": "lord krishna face outline, flute element, clean lines, minimal detail, transparent background",
     "category": "Mythology",
     "type": "image"
   },
   {
     "id": "img_033",
-    "name": "Buddha Outline",
+    "name": "Buddha",
     "prompt": "buddha face outline, peaceful expression, smooth lines, minimal detail, transparent background",
     "category": "Mythology",
     "type": "image"
   },
   {
     "id": "img_034",
-    "name": "Anubis Outline",
+    "name": "Anubis",
     "prompt": "anubis head outline, egyptian god jackal face, sharp clean lines, minimal detail, transparent background",
     "category": "Mythology",
     "type": "image"
   },
   {
     "id": "img_035",
-    "name": "Sekhmet Outline",
+    "name": "Sekhmet",
     "prompt": "sekhmet lion head outline, minimal clean lines, transparent background",
     "category": "Mythology",
     "type": "image"
   },
   {
     "id": "img_036",
-    "name": "Anime Boy Outline",
+    "name": "Anime Boy",
     "prompt": "anime boy face outline, spiky hair, large eyes, clean bold lines, minimal detail, transparent background",
     "category": "Anime",
     "type": "image"
   },
   {
     "id": "img_037",
-    "name": "Anime Girl Outline",
+    "name": "Anime Girl",
     "prompt": "anime girl face outline, big eyes, smooth hair, clean line art, minimal detail, transparent background",
     "category": "Anime",
     "type": "image"
@@ -267,84 +267,84 @@
   },
   {
     "id": "img_039",
-    "name": "Dragon Outline",
+    "name": "Dragon",
     "prompt": "dragon outline, side view, clean detailed lines but minimal fill, transparent background",
     "category": "Fantasy",
     "type": "image"
   },
   {
     "id": "img_040",
-    "name": "Unicorn Outline",
+    "name": "Unicorn",
     "prompt": "unicorn outline, elegant pose, smooth lines, minimal detail, transparent background",
     "category": "Fantasy",
     "type": "image"
   },
   {
     "id": "img_041",
-    "name": "Fairy Outline",
+    "name": "Fairy",
     "prompt": "fairy outline, wings spread, delicate lines, minimal detail, transparent background",
     "category": "Fantasy",
     "type": "image"
   },
   {
     "id": "img_042",
-    "name": "Camera Outline",
+    "name": "Camera",
     "prompt": "camera outline front view, clean geometry lines, minimal detail, transparent background",
     "category": "Tech",
     "type": "image"
   },
   {
     "id": "img_043",
-    "name": "Smartphone Outline",
+    "name": "Smartphone",
     "prompt": "smartphone outline, front view, minimal clean lines, transparent background",
     "category": "Tech",
     "type": "image"
   },
   {
     "id": "img_044",
-    "name": "Headphones Outline",
+    "name": "Headphones",
     "prompt": "headphones outline, simple curved lines, minimal detail, transparent background",
     "category": "Tech",
     "type": "image"
   },
   {
     "id": "img_045",
-    "name": "Football Outline",
+    "name": "Football",
     "prompt": "football outline, clean bold lines, minimal detail, transparent background",
     "category": "Sports",
     "type": "image"
   },
   {
     "id": "img_046",
-    "name": "Cricket Bat Outline",
+    "name": "Cricket Bat",
     "prompt": "cricket bat and ball outline, simple lines, minimal detail, transparent background",
     "category": "Sports",
     "type": "image"
   },
   {
     "id": "img_047",
-    "name": "Basketball Outline",
+    "name": "Basketball",
     "prompt": "basketball outline, simple curved lines, minimal detail, transparent background",
     "category": "Sports",
     "type": "image"
   },
   {
     "id": "img_048",
-    "name": "Gift Box Outline",
+    "name": "Gift Box",
     "prompt": "gift box outline with ribbon, clean lines, minimal detail, transparent background",
     "category": "Objects",
     "type": "image"
   },
   {
     "id": "img_049",
-    "name": "Balloon Outline",
+    "name": "Balloon",
     "prompt": "balloon outline simple shape, clean bold lines, minimal detail, transparent background",
     "category": "Objects",
     "type": "image"
   },
   {
     "id": "img_050",
-    "name": "Rocket Outline",
+    "name": "Rocket",
     "prompt": "rocket outline, cartoon style, clean lines, minimal detail, transparent background",
     "category": "Objects",
     "type": "image"
