@@ -1,1 +1,0 @@
-# ar-drawing-image-public
